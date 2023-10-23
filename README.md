@@ -39,3 +39,17 @@ the ./ determines where you are and then you wite the file name of your current 
 
 ## write bold text:
 **This Is Bold text**
+
+
+## Adding a Code Line:
+
+we can add a codeline `console.log('Hello World')`
+
+## Adding a Code Block:
+```js
+{"first_name: 'John',
+  last_name: 'Doe',
+  hobbys: 'Doing_Things',
+"}
+```
+
