@@ -18,3 +18,5 @@
 - thrid item
 - fourth item
   
+## Link to a page:
+[Spiced Academy] (https://www.spiced-academy.com/en)
