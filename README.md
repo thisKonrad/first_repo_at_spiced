@@ -34,3 +34,8 @@ That is so funny! :joy:
 
 ## add a file from the assets:
 ![döner_image](./döner.jpg)
+
+the ./ determines where you are and then you wite the file name of your current root directory
+
+## write bold text:
+**This Is Bold text**
