@@ -31,3 +31,6 @@ That is so funny! :joy:
 ## strike trough with ~~ text without spaces ~~
 
 ~~this is striked trough text~~
+
+## add a file from the assets:
+![döner_image](./döner.jpg)
