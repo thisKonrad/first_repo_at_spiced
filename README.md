@@ -27,3 +27,7 @@
 
 ## add an emoji:
 That is so funny! :joy:
+
+## strike trough with ~~ text without spaces ~~
+
+~~this is striked trough text~~
